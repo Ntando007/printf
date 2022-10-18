@@ -5,7 +5,7 @@
 #include "main.h"
 /**
  * _printf - creates printf function
- * @format: string with format specifier
+ * @format: is a character string
  * Return: the number of characters printed
  */
  int _printf(const char *format, ...)
